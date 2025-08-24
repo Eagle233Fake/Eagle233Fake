@@ -1,6 +1,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eagle233Fake&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eagle233Fake&layout=compact&exclude_langs=HTML,CSS)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eagle233Fake&layout=compact&hide=HTML,CSS)
 
 <!---
 Eagle233Fake/Eagle233Fake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
